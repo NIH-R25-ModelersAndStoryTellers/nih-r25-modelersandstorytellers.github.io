@@ -1,37 +1,37 @@
-- name: GitHub
-  url: http://github.com/phlow
-  class: icon-github
-  title: Code und mehr...
+# - name: GitHub
+#   url: https://github.com/NIH-R25-ModelersAndStoryTellers
+#   class: icon-github
+#   title: "Code und mehr..."
 
-- name: YouTube
-  url: http://www.youtube.com/PhlowMedia
-  class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+# - name: YouTube
+#   url: http://www.youtube.com/NIH-R25-ModelersAndStoryTellers
+#   class: icon-youtube
+#   title: "Video"
 
-- name: Twitter
-  url: http://twitter.com/phlow
-  class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+#- name: X
+#  url: http://twitter.com/NIH-R25-ModelersAndStoryTellers/
+#  class: icon-twitter
+#  title: ""
 
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
-  class: icon-cloud
-  title: "Mixe, was sonst?"
+# - name: Mixcloud
+#   url: http://www.mixcloud.com/NIH-R25-ModelersAndStoryTellers/
+#   class: icon-cloud
+#   title: "Mixe, was sonst?"
 
-# - name: Facebook
-#   url: http://www.facebook.com/
-#   class: icon-facebook
-#   title: ""
+- name: Facebook
+  url: https://www.facebook.com/uclafsph/
+  class: icon-facebook
+  title: "Facebook"
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/
 #   class: icon-soundcloud
 #   title: ""
 
-# - name: Instagram
-#   url: http://instagram.com/
-#   class: icon-instagram
-#   title: ""
+- name: Instagram
+  url: https://www.instagram.com/uclafsph/
+  class: icon-instagram
+  title: "Instagram"
 
 # - name: Pinterest
 #   url: http://www.pinterest.com/
@@ -42,3 +42,9 @@
 #   url: https://www.xing.com/profile/
 #   class: icon-xing
 #   title: Xing Profil
+
+- name: LinkedIn
+  url: https://www.linkedin.com/school/fsph/
+  class: icon-linkedin
+  title: "LinkedIn"
+  

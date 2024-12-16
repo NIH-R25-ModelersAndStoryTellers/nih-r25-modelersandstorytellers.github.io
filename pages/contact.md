@@ -7,3 +7,5 @@ teaser              : "Get in touch with me? Use the contact form."
 permalink           : "/contact/"
 ---
 If you need a fabulous contact form for your website, I suggest you use the free version of [Wufoo](http://www.wufoo.com/)
+
+Can embed Qualtrics form, google form, etc. 
